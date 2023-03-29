@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.AssemblyInfo.cs
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\TP_HelloWorld!\bin\Debug\net7.0\TP_HelloWorld!.exe
+D:\Coding Practice\C#\TP_HelloWorld!\bin\Debug\net7.0\TP_HelloWorld!.deps.json
+D:\Coding Practice\C#\TP_HelloWorld!\bin\Debug\net7.0\TP_HelloWorld!.runtimeconfig.json
+D:\Coding Practice\C#\TP_HelloWorld!\bin\Debug\net7.0\TP_HelloWorld!.dll
+D:\Coding Practice\C#\TP_HelloWorld!\bin\Debug\net7.0\TP_HelloWorld!.pdb
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.dll
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\refint\TP_HelloWorld!.dll
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.pdb
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\TP_HelloWorld!.genruntimeconfig.cache
+D:\Coding Practice\C#\TP_HelloWorld!\obj\Debug\net7.0\ref\TP_HelloWorld!.dll

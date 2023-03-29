@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\TP_EnterName\bin\Debug\net7.0\TP_EnterName.exe
+D:\Coding Practice\C#\TP_EnterName\bin\Debug\net7.0\TP_EnterName.deps.json
+D:\Coding Practice\C#\TP_EnterName\bin\Debug\net7.0\TP_EnterName.runtimeconfig.json
+D:\Coding Practice\C#\TP_EnterName\bin\Debug\net7.0\TP_EnterName.dll
+D:\Coding Practice\C#\TP_EnterName\bin\Debug\net7.0\TP_EnterName.pdb
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.AssemblyInfo.cs
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.dll
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\refint\TP_EnterName.dll
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.pdb
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\TP_EnterName.genruntimeconfig.cache
+D:\Coding Practice\C#\TP_EnterName\obj\Debug\net7.0\ref\TP_EnterName.dll

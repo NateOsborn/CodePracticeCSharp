@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\TP_FullThrottle\bin\Debug\net7.0\TP_FullThrottle.exe
+D:\Coding Practice\C#\TP_FullThrottle\bin\Debug\net7.0\TP_FullThrottle.deps.json
+D:\Coding Practice\C#\TP_FullThrottle\bin\Debug\net7.0\TP_FullThrottle.runtimeconfig.json
+D:\Coding Practice\C#\TP_FullThrottle\bin\Debug\net7.0\TP_FullThrottle.dll
+D:\Coding Practice\C#\TP_FullThrottle\bin\Debug\net7.0\TP_FullThrottle.pdb
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.AssemblyInfo.cs
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.dll
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\refint\TP_FullThrottle.dll
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.pdb
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\TP_FullThrottle.genruntimeconfig.cache
+D:\Coding Practice\C#\TP_FullThrottle\obj\Debug\net7.0\ref\TP_FullThrottle.dll

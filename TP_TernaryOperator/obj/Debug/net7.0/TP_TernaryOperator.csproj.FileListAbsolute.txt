@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\TP_TernaryOperator\bin\Debug\net7.0\TP_TernaryOperator.exe
+D:\Coding Practice\C#\TP_TernaryOperator\bin\Debug\net7.0\TP_TernaryOperator.deps.json
+D:\Coding Practice\C#\TP_TernaryOperator\bin\Debug\net7.0\TP_TernaryOperator.runtimeconfig.json
+D:\Coding Practice\C#\TP_TernaryOperator\bin\Debug\net7.0\TP_TernaryOperator.dll
+D:\Coding Practice\C#\TP_TernaryOperator\bin\Debug\net7.0\TP_TernaryOperator.pdb
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.AssemblyInfo.cs
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.dll
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\refint\TP_TernaryOperator.dll
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.pdb
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\TP_TernaryOperator.genruntimeconfig.cache
+D:\Coding Practice\C#\TP_TernaryOperator\obj\Debug\net7.0\ref\TP_TernaryOperator.dll

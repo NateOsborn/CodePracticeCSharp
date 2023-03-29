@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\TP_GuessANum\bin\Debug\net7.0\TP_GuessANum.exe
+D:\Coding Practice\C#\TP_GuessANum\bin\Debug\net7.0\TP_GuessANum.deps.json
+D:\Coding Practice\C#\TP_GuessANum\bin\Debug\net7.0\TP_GuessANum.runtimeconfig.json
+D:\Coding Practice\C#\TP_GuessANum\bin\Debug\net7.0\TP_GuessANum.dll
+D:\Coding Practice\C#\TP_GuessANum\bin\Debug\net7.0\TP_GuessANum.pdb
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.AssemblyInfo.cs
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.dll
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\refint\TP_GuessANum.dll
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.pdb
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\TP_GuessANum.genruntimeconfig.cache
+D:\Coding Practice\C#\TP_GuessANum\obj\Debug\net7.0\ref\TP_GuessANum.dll
