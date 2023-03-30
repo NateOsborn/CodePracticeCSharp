@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\M&R_List\bin\Debug\net7.0\M&R_List.exe
+D:\Coding Practice\C#\M&R_List\bin\Debug\net7.0\M&R_List.deps.json
+D:\Coding Practice\C#\M&R_List\bin\Debug\net7.0\M&R_List.runtimeconfig.json
+D:\Coding Practice\C#\M&R_List\bin\Debug\net7.0\M&R_List.dll
+D:\Coding Practice\C#\M&R_List\bin\Debug\net7.0\M&R_List.pdb
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.AssemblyInfo.cs
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.dll
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\refint\M&R_List.dll
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.pdb
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\M&R_List.genruntimeconfig.cache
+D:\Coding Practice\C#\M&R_List\obj\Debug\net7.0\ref\M&R_List.dll
