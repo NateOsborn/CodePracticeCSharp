@@ -1,0 +1,15 @@
+D:\Coding Practice\C#\BinaryTree\bin\Debug\net7.0\BinaryTree.exe
+D:\Coding Practice\C#\BinaryTree\bin\Debug\net7.0\BinaryTree.deps.json
+D:\Coding Practice\C#\BinaryTree\bin\Debug\net7.0\BinaryTree.runtimeconfig.json
+D:\Coding Practice\C#\BinaryTree\bin\Debug\net7.0\BinaryTree.dll
+D:\Coding Practice\C#\BinaryTree\bin\Debug\net7.0\BinaryTree.pdb
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.csproj.AssemblyReference.cache
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.AssemblyInfoInputs.cache
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.AssemblyInfo.cs
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.dll
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\refint\BinaryTree.dll
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.pdb
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\BinaryTree.genruntimeconfig.cache
+D:\Coding Practice\C#\BinaryTree\obj\Debug\net7.0\ref\BinaryTree.dll
